@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+main {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(48, 46, 46);
+    background-color: rgb(211, 211, 211);
+    padding: 100px 100px 100px 100px;
+    
+
+}
+img {
+    max-width: 100%;
+	height: auto;
+}
+ul {
+    text-align: left;
+}
+@media only screen and (min-width: 480px) {
+}
+
+@media only screen and (min-width: 767px) {
+}
+
+@media only screen and (min-width: 991px) {
+}
